@@ -1,3 +1,3 @@
-Rain Guage v1.0.9
-Daily Total via sd card
-RTC data for 500 tips if sd card fails
+Rain Guage version 1.0.11
+syncNTP after 3600 seconds
+Decimal points as 0.3mm to previous 0.30mm
